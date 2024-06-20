@@ -1,0 +1,21 @@
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+/Users/nishibironin/.rbenv/versions/3.3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-ead66w sitelibdir\=./.gem.20240620-32657-ead66w clean
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-ead66w sitelibdir\=./.gem.20240620-32657-ead66w
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.bundle
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-ead66w sitelibdir\=./.gem.20240620-32657-ead66w install
+/usr/bin/install -c -m 0755 jaro_winkler_ext.bundle ./.gem.20240620-32657-ead66w/jaro_winkler
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-ead66w sitelibdir\=./.gem.20240620-32657-ead66w clean

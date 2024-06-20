@@ -1,0 +1,16 @@
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/nishibironin/.rbenv/versions/3.3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-3ovn8s sitelibdir\=./.gem.20240620-32657-3ovn8s clean
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-3ovn8s sitelibdir\=./.gem.20240620-32657-3ovn8s
+make: Nothing to be done for `all'.
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-3ovn8s sitelibdir\=./.gem.20240620-32657-3ovn8s install
+
+current directory: /Users/nishibironin/Documents/Ruby/environment/sample_app/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240620-32657-3ovn8s sitelibdir\=./.gem.20240620-32657-3ovn8s clean
