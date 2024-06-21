@@ -9,8 +9,7 @@ class ActiveSupport::TestCase
   parallelize(workers: :number_of_processors)
 
   # test/fixtures/*.ymlにあるすべてのfixtureをセットアップする
-  fixtures :all
-  include ApplicationHelper
+  fixtures :all]
 
   # （すべてのテストで使うその他のヘルパーメソッドは省略）
 end
