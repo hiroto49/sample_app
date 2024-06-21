@@ -7,8 +7,8 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get root" do
-    get static_pages_home_url
-    assert_response :success
+    get static_pages_home_url 
+    assert_response （コードを書き込む）
   end
 
   test "should get home" do
